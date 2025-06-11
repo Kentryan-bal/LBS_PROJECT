@@ -1,1 +1,2 @@
 montly[[:space:]]lfs/* filter=lfs diff=lfs merge=lfs -text
+*july_2023.csv filter=lfs diff=lfs merge=lfs -text
